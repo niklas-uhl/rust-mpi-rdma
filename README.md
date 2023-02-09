@@ -1,4 +1,4 @@
-# wrapped-mpi
+# rust-mpi-rdma
 Simple demo for calling MPI directly from Rust (without any potentially incomplete wrapper).
 
 Also, includes a proof-of-concept of safe MPI-RDMA communication. 
